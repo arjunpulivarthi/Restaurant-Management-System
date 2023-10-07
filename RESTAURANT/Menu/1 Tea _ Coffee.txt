@@ -1,0 +1,8 @@
+#Coffee / Tea
+Tea 10/-
+Coffee 10/-
+Ginger Tea 20/-
+Ginger Coffee 20/-
+Green Tea 15/-
+
+

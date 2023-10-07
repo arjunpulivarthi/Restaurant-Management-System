@@ -1,0 +1,11 @@
+#Beverages
+Coca-Cola 40/-
+Diet Pepsi 50/-
+Fresh Lime Soda 30/-
+Mineral Water 25/-
+Mango 40/-
+Apple 40/-
+Banana 40/-
+Butterfruit 60/-
+Kiwi 60/-
+Mosambi 50/-

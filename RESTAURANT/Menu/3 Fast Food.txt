@@ -1,0 +1,14 @@
+#Fast Food
+Plain Sandwich 60/-
+Grilled Sandwich 80/-
+Veg. Burger 50/-
+Plain Cheese Pizza 150/-
+Tandoori Pizza 200/-
+Super Veggie Pizza(Double Cheese) 250/-
+Veg Hakka Noodles 120/-
+Chilli Garlic Noodles 120/-
+Pav Bhaji 30/-
+Bombay Vada Pav 30/-
+Dahi Puri 30/-
+Pani Puri (6 pcs.) 25/-
+
